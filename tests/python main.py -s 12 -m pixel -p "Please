@@ -1,0 +1,1 @@
+python main.py -s 12 -m ascii -p "Please generate an extra small world with grassy fields and a mountain in the top left corner" --text "map_file.txt"  

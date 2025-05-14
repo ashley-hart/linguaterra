@@ -1,0 +1,17 @@
+. . . . . T T T M M M . . . ~ ~ ~
+. . . . . T T T T M M . . ~ ~ ~ ~
+. . " " " M M T M M M " " . ~ ~ ~
+. . . " " M M T T M M " . . ~ ~ ~
+. . " " T M M T M M M " " . . ~ ~
+M M M M M T T T T T T " . . ~ ~ ~
+M M M M M T T T T T T . . ~ ~ ~ ~
+T T M M M T T " " " " ~ ~ ~ ~ . ~
+M M M M M T T " " " " ~ ~ ~ ~ . .
+M M M M M T T T " " " ~ ~ ~ ~ . .
+M M s s s T T T " " T . ~ ~ . ~ ~
+M M M M M M M T T M M T T " " " "
+M M s s s M M M M M M T T T " " "
+M M M M M M M M M M M T T T " " "
+M M s s s s s s s s s T T T T T T
+M M M M M M M M M s s T T T T T T
+M M s M M M s s s s s T T T T T T

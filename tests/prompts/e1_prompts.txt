@@ -1,0 +1,20 @@
+Generate an extra small map with mountains in the north and plains in the south.  
+Create a small map where a dense forest dominates the center, surrounded by desert in the west.  
+Design a medium map with water in the northeast and mountains in the southwest.  
+Generate an extra small map featuring a desert in the southeast and a forest in the northwest.  
+Create a small map where plains stretch across the center, bordered by mountains in the east.  
+Design a medium map with a large body of water in the west and rolling plains in the east.  
+Generate an extra small map with a dense forest in the south and mountains in the north.  
+Create a small map where a desert occupies the northwest and water is present in the southeast.  
+Design a medium map with a mountain range in the center and plains covering the rest of the land.  
+Generate an extra small map with water to the west and a forest in the east.  
+Create a small map where a desert extends across the north while a dense forest thrives in the south.  
+Design a medium map featuring a central lake, with mountains in the northwest and plains in the southeast.  
+Generate an extra small map with plains in the northeast and a forest in the southwest.  
+Create a small map where mountains form a ridge in the center, with water to the south.  
+Design a medium map where a vast desert covers the west, while a dense forest occupies the east.  
+Generate an extra small map with a body of water in the north and mountains in the south.  
+Create a small map where a desert stretches across the center, with forests scattered to the east and west.  
+Design a medium map with water in the southwest, mountains in the northeast, and plains in between.  
+Generate an extra small map where a forest dominates the center, surrounded by desert in all directions.  
+Create a small map where mountains are clustered in the southeast, while plains and water cover the rest.  
